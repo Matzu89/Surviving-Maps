@@ -1,0 +1,56 @@
+[
+{"name_en":"Albor Tholus","name_br":"Albor Tholus","name_fr":"Albor Tholus","name_ge":"Albor Tholus","name_po":"Albor Tholus","name_ru":"Купол Альбор","name_sc":"阿尔沃尔山","name_sp":"Albor Tholus","name_tr":"Albor Tholus"}
+,
+{"name_en":"Arabia Terra","name_br":"Arabia Terra","name_fr":"Arabia Terra","name_ge":"Terra Arabia","name_po":"Arabia Terra","name_ru":"Аравийская земля","name_sc":"阿拉伯高地","name_sp":"Arabia Terra","name_tr":"Terra Arabia"}
+,
+{"name_en":"Arcadia Planitia","name_br":"Arcadia Planitia","name_fr":"Arcadia Planitia","name_ge":"Arcadia Planitia","name_po":"Arcadia Planitia","name_ru":"Равнина Аркадия","name_sc":"阿卡迪亚平原","name_sp":"Arcadia Planitia","name_tr":"Arcadia Planitia"}
+,
+{"name_en":"Argyre Planitia","name_br":"Argyre Planitia","name_fr":"Argyre Planitia","name_ge":"Argyre Planitia","name_po":"Argyre Planitia","name_ru":"Равнина Аргир","name_sc":"阿尔及尔平原","name_sp":"Argyre Planitia","name_tr":"Argyre Planitia"}
+,
+{"name_en":"Arsai Mons","name_br":"Arsai Mons","name_fr":"Arsai Mons","name_ge":"Arsai Mons","name_po":"Arsai Mons","name_ru":"Гора Арсия","name_sc":"阿塞山","name_sp":"Arsia Mons","name_tr":"Arsai Mons"}
+,
+{"name_en":"Ascraeus Mons","name_br":"Ascraeus Mons","name_fr":"Ascraeus Mons","name_ge":"Ascraeus Mons","name_po":"Ascraeus Mons","name_ru":"Гора Аскрийская","name_sc":"艾斯克雷尔斯山","name_sp":"Ascraeus Mons","name_tr":"Ascraeus Mons"}
+,
+{"name_en":"Colony Site","name_br":"Local da Colônia","name_fr":"Site de colonie","name_ge":"Koloniestandort","name_po":"Miejsce na kolonię","name_ru":"Колония","name_sc":"殖民地位置","name_sp":"Lugar de la colonia","name_tr":"Koloni sahası"}
+,
+{"name_en":"Colony Site","name_br":"Local da Colônia","name_fr":"Site de colonie","name_ge":"Koloniestandort","name_po":"Miejsce na kolonię","name_ru":"Колония","name_sc":"殖民地位置","name_sp":"Lugar de la colonia","name_tr":"Koloni sahası"}
+,
+{"name_en":"Elysium Mons","name_br":"Elysium Mons","name_fr":"Elysium Mons","name_ge":"Elysium Mons","name_po":"Elysium Mons","name_ru":"Гора Элизий","name_sc":"埃律西昂山","name_sp":"Elysium Mons","name_tr":"Elysium Mons"}
+,
+{"name_en":"Gale Crater","name_br":"Gale Crater","name_fr":"Cratère Gale","name_ge":"Sturmkrater","name_po":"Krater Gale","name_ru":"Кратер Гейл","name_sc":"盖尔陨坑","name_sp":"Cráter Gale","name_tr":"Gale Krateri"}
+,
+{"name_en":"Hecatus Tholus","name_br":"Hecatus Tholus","name_fr":"Hecatus Tholus","name_ge":"Hecatus Tholus","name_po":"Hecatus Tholus","name_ru":"Купол Гекаты","name_sc":"赫克托斯山","name_sp":"Hecatus Tholus","name_tr":"Hecatus Tholus"}
+,
+{"name_en":"Hellas Planitia","name_br":"Hellas Planitia","name_fr":"Hellas Planitia","name_ge":"Hellas Planitia","name_po":"Hellas Planitia","name_ru":"Равнина Эллада","name_sc":"希腊平原","name_sp":"Hellas Planitia","name_tr":"Hellas Planitia"}
+,
+{"name_en":"Mars Pathfinder Landing Area","name_br":"Área de Aterrissagem Mars Pathfinder","name_fr":"Zone d'atterrissage de Mars Pathfinder","name_ge":"Landezone Mars Pathfinder","name_po":"Strefa lądowania sondy Mars Pathfinder","name_ru":"Район посадки аппарата «Марс Пасфайндер»","name_sc":"火星开拓者降落区","name_sp":"Zona de aterrizaje Mars Pathfinder","name_tr":"Mars Pathfinder İniş Alanı"}
+,
+{"name_en":"North Cap","name_br":"Calota Norte","name_fr":"Cap Nord","name_ge":"Norkap","name_po":"Północna czapa lodowa","name_ru":"Северный полюс","name_sc":"北极冠","name_sp":"Límite norte","name_tr":"Kuzey Doruğu"}
+,
+{"name_en":"Olympus Mons","name_br":"Olympus Mons","name_fr":"Olympus Mons","name_ge":"Olympus Mons","name_po":"Olympus Mons","name_ru":"Гора Олимп","name_sc":"奥林匹斯山","name_sp":"Olympus Mons","name_tr":"Olympus Mons"}
+,
+{"name_en":"Opportunity Landing Area","name_br":"Área de Aterrissagem Opportunity","name_fr":"Zone d'atterrissage d'Opportunity","name_ge":"Landezone Opportunity","name_po":"Strefa lądowania sondy Opportunity","name_ru":"Район посадки «Оппортьюнити»","name_sc":"机遇号降落区","name_sp":"Zona de aterrizaje Opportunity","name_tr":"Opportunity İniş Alanı"}
+,
+{"name_en":"Pavonis Mons","name_br":"Pavonis Mons","name_fr":"Pavonis Mons","name_ge":"Pavonis Mons","name_po":"Pavonis Mons","name_ru":"Гора Павлина","name_sc":"帕蒙尼斯山","name_sp":"Pavonis Mons","name_tr":"Pavonis Mons"}
+,
+{"name_en":"Phoenix Landing Area","name_br":"Área de Aterrissagem Phoenix","name_fr":"Zone d'atterrissage de Phœnix","name_ge":"Landezone Phoenix","name_po":"Strefa lądowania sondy Phoenix","name_ru":"Район посадки «Феникса»","name_sc":"凤凰号降落区","name_sp":"Zona de aterrizaje Phoenix","name_tr":"Phoenix İniş Alanı"}
+,
+{"name_en":"South Cap","name_br":"Calota Sul","name_fr":"Cap Sud","name_ge":"Südkap","name_po":"Południowa czapa lodowa","name_ru":"Южный полюс","name_sc":"南极冠","name_sp":"Límite sur","name_tr":"Güney Doruğu"}
+,
+{"name_en":"Spirit Landing Area","name_br":"Área de Aterrissagem Spirit","name_fr":"Zone d'atterrissage de Spirit","name_ge":"Landezone Spirit","name_po":"Strefa lądowania sondy Spirit","name_ru":"Район посадки «Спирита»","name_sc":"精神号降落区","name_sp":"Zona de aterrizaje Spirit","name_tr":"Spirit İniş Alanı"}
+,
+{"name_en":"Tempa Terra","name_br":"Tempa Terra","name_fr":"Tempa Terra","name_ge":"Terra Tempa","name_po":"Tempa Terra","name_ru":"Земля Темпе","name_sc":"坦帕高地","name_sp":"Tempa Terra","name_tr":"Terra Tempa"}
+,
+{"name_en":"Terra Sabaea","name_br":"Terra Sabaea","name_fr":"Terra Sabaea","name_ge":"Terra Sabaea","name_po":"Terra Sabaea","name_ru":"Сабейская земля","name_sc":"塞巴高地","name_sp":"Terra Sabaea","name_tr":"Terra Sabaea"}
+,
+{"name_en":"Terra Sireum","name_br":"Terra Sireum","name_fr":"Terra Sireum","name_ge":"Terra Sireum","name_po":"Terra Sireum","name_ru":"Земля Сирен","name_sc":"蚂蚁高地","name_sp":"Terra Sireum","name_tr":"Terra Sireum"}
+,
+{"name_en":"Utopia Planitia","name_br":"Utopia Planitia","name_fr":"Utopia Planitia","name_ge":"Utopia Planitia","name_po":"Utopia Planitia","name_ru":"Равнина Утопия","name_sc":"乌托邦平原","name_sp":"Utopia Planitia","name_tr":"Utopia Planitia"}
+,
+{"name_en":"Valles Marineris","name_br":"Valles Marineris","name_fr":"Valles Marineris","name_ge":"Valles Marineris","name_po":"Valles Marineris","name_ru":"Долины Маринер","name_sc":"水手号峡谷","name_sp":"Valles Marineris","name_tr":"Valles Marineris"}
+,
+{"name_en":"Viking 1 Landing Area","name_br":"Área de Aterrissagem Viking 1","name_fr":"Zone d'atterrissage de Viking 1","name_ge":"Landezone Viking 1","name_po":"Strefa lądowania sondy Viking 1","name_ru":"Район посадки «Викинга-1»","name_sc":"维京1号降落区","name_sp":"Zona de aterrizaje Viking 1","name_tr":"Viking 1 İniş Alanı"}
+,
+{"name_en":"Viking 2 Landing Area","name_br":"Área de Aterrissagem Viking 2","name_fr":"Zone d'atterrissage de Viking 2","name_ge":"Landezone Viking 2","name_po":"Strefa lądowania sondy Viking 2","name_ru":"Район посадки «Викинга-2»","name_sc":"维京2号降落区","name_sp":"Zona de aterrizaje Viking 2","name_tr":"Viking 2 İniş Alanı"}
+
+]

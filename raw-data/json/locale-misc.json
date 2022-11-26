@@ -1,0 +1,46 @@
+[
+{"name_en":"Relatively Flat","name_br":"Relativamente Plano","name_fr":"Relativement plat","name_ge":"Relativ flach","name_po":"Względnie płaski","name_ru":"Относительно плоский","name_sc":"相对平坦","name_sp":"Relativamente plano","name_tr":"Görece düz"}
+,
+{"name_en":"Rough","name_br":"Irregular","name_fr":"Irrégulier","name_ge":"Uneben","name_po":"Nierówny","name_ru":"Неровный","name_sc":"崎岖不平","name_sp":"Áspero","name_tr":"Engebeli"}
+,
+{"name_en":"Steep","name_br":"Íngreme","name_fr":"Raide","name_ge":"Abschüssig","name_po":"Stromy","name_ru":"Холмистый","name_sc":"山势险峻","name_sp":"Escarpado","name_tr":"Dik"}
+,
+{"name_en":"Mountainous","name_br":"Montanhoso","name_fr":"Montagneux","name_ge":"Gebirgig","name_po":"Górzysty","name_ru":"Горы","name_sc":"山地","name_sp":"Montañoso","name_tr":"Dağlık"}
+,
+{"name_en":"Dust Devils","name_br":"Redemoinhos","name_fr":"Tourbillons de Poussière","name_ge":"Staubteufel","name_po":"Diabły pyłowe","name_ru":"Пыльные вихри","name_sc":"尘卷风","name_sp":"Remolinos de polvo","name_tr":"Şeyan hortumları"}
+,
+{"name_en":"Cold Waves","name_br":"Ondas de Frio","name_fr":"Vagues de Froid","name_ge":"Kältewellen","name_po":"Fale zimna","name_ru":"Аномальные холода","name_sc":"寒流","name_sp":"Olas de frío","name_tr":"Soğuk dalgası"}
+,
+{"name_en":"Dust Storms","name_br":"Tempestades de Areia","name_fr":"Tempêtes de Poussière","name_ge":"Staubstürme","name_po":"Burze pyłowe","name_ru":"Пылевые бури","name_sc":"沙尘暴","name_sp":"Tormentas de polvo","name_tr":"Toz fırtınası"}
+,
+{"name_en":"Meteors","name_br":"Meteoros","name_fr":"Météores","name_ge":"Meteoriten","name_po":"Meteoryty","name_ru":"Метеороиды","name_sc":"陨石","name_sp":"Meteoritos","name_tr":"Meteor"}
+,
+{"name_en":"Metals","name_br":"Metais","name_fr":"Métaux","name_ge":"Metalle","name_po":"Metale","name_ru":"Металлы","name_sc":"金属","name_sp":"Metales","name_tr":"Metal"}
+,
+{"name_en":"Rare Metals","name_br":"Metais Raros","name_fr":"Métaux Rares","name_ge":"Edelmetalle","name_po":"Rzadkie metale","name_ru":"Редкие металлы","name_sc":"稀有金属","name_sp":"Metales raros","name_tr":"Nadir metal"}
+,
+{"name_en":"Concrete","name_br":"Concreto","name_fr":"Béton","name_ge":"Beton","name_po":"Cement","name_ru":"Бетон","name_sc":"混凝土","name_sp":"Hormigón","name_tr":"Beton"}
+,
+{"name_en":"Water","name_br":"Água","name_fr":"Eau","name_ge":"Wasser","name_po":"Woda","name_ru":"Вода","name_sc":"水资源","name_sp":"Agua","name_tr":"Su"}
+,
+{"name_en":"Topography","name_br":"Topografia","name_fr":"Topographie","name_ge":"Topografie","name_po":"Topografia","name_ru":"Топография","name_sc":"地形","name_sp":"Topografía","name_tr":"Topoğrafya"}
+,
+{"name_en":"Location","name_br":"Localização","name_fr":"Lieu","name_ge":"Ort","name_po":"Położenie","name_ru":"Местоположение","name_sc":"位置","name_sp":"Lugar","name_tr":"Konum"}
+,
+{"name_en":"Coordinates","name_br":"Coordenadas","name_fr":"Coordonnées","name_ge":"Koordinaten","name_po":"Współrzędne","name_ru":"Координаты:","name_sc":"坐标","name_sp":"Coordenadas","name_tr":"Koordinatlar"}
+,
+{"name_en":"Breakthrough","name_br":"Tecnologia Inovadora","name_fr":"Avancée technologique","name_ge":"Durchbruch","name_po":"Przełom","name_ru":"Прорыв","name_sc":"突破性技术","name_sp":"Innovación","name_tr":"Devrimsel teknoloji"}
+,
+{"name_en":"Temperature","name_br":"Temperatura","name_fr":"Température","name_ge":"Temperatur","name_po":"Temperatura","name_ru":"Температура","name_sc":"气温","name_sp":"Temperatura","name_tr":"Sıcaklık"}
+,
+{"name_en":"Altitude","name_br":"Altitude","name_fr":"Altitude","name_ge":"Höhenlage","name_po":"Wysokość","name_ru":"Высота","name_sc":"海拔","name_sp":"Altitud","name_tr":"Rakım"}
+,
+{"name_en":"Resources","name_br":"Recursos","name_fr":"Ressources","name_ge":"Ressourcen","name_po":"Zasoby","name_ru":"Ресурсы","name_sc":"资源","name_sp":"Recursos","name_tr":"Kaynaklar"}
+,
+{"name_en":"THREATS","name_br":"AMEAÇAS","name_fr":"MENACES","name_ge":"BEDROHUNGEN","name_po":"ZAGROŻENIA","name_ru":"УГРОЗЫ","name_sc":"威胁","name_sp":"AMENAZAS","name_tr":"TEHDİTLER"}
+,
+{"name_en":"Rating (ASC)","name_br":"Melhor avaliados","name_fr":"Par notes (Croissant)","name_ge":"Bewertung (AUFSTEIGEND)","name_po":"Ocena (rosn.)","name_ru":"Рейтинг (ВОЗР)","name_sc":"评级（升序）","name_sp":"Puntuación (ASC)","name_tr":"Puan (ARTAN)"}
+,
+{"name_en":"Rating (DESC)","name_br":"Pior avaliados","name_fr":"Par notes (Décroissant)","name_ge":"Bewertung (ABSTEIGEND)","name_po":"Ocena (mal.)","name_ru":"Рейтинг (УБЫВ)","name_sc":"评级（降序）","name_sp":"Puntuación (DESC)","name_tr":"Puan (AZALAN)"}
+
+]
